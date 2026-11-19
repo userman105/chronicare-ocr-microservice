@@ -1,0 +1,20 @@
+# PaddleOCR models
+/models/cls/
+/models/layout/
+/models/table/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Uploads and temporary files
+/uploads/*
+!/uploads/.gitkeep
+
+# IDE
+.idea/
+
+# Temporary output
+output.txt
